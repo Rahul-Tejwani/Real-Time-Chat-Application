@@ -1,4 +1,4 @@
-# Real Time Chat Application created using MERN Stack, Tailwind CSS and Socket.io
+# Real Time Chat Application created using MERN Stack, Tailwind CSS and Socket.io<br><br>
 
 Features:
 -> **Tech Stack:** MERN (MongoDB, Express, React, Node.js) + Socket.io + Tailwind CSS + Daisy UI.<br>
